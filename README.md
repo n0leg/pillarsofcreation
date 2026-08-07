@@ -1,6 +1,6 @@
 # GIVE THE PROJECT A TITLE
 
-![[Pasted image 20260807180244.png]]
+![](pillars_rgb_render1.png)
 *The final rendered image output by Python*
 ## Project Summary
 
