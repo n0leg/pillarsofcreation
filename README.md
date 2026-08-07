@@ -12,29 +12,28 @@ How we planned to do it
 
 Tools we chose
 - Python / Astropy
-- Google Colab
+- Google Colab / Jupyter Notebook
 
 ## Glossary of Terms
 
+- Jupyter Notebook
+- Google Colab
 - Astropy
 - MAST
 - FITS / I2D 
 
-- What is Astropy?
-- What is MAST?
-- What is a FITS file?
-- What is I2D?
+## Process
+
+What were the steps we went through? Link to Colab and answer the following questions:
 
 - What is STSCI.edu?
+- What is the James Webb Space Telescope?
 - What is NIRCAM?
 - What is MIRI?
-- What do the bandpass filters do on the JWST?
+- What do the bandpass filters do on the JWST? How did we use the filter renderings to create a color image?
 
 Enumerate the steps we went through to find, download and render the JWST images. Use text blocks in Google Colab to describe each block. Add comments to the Python code.
 
-## Process
-
-What were the steps we went through? Link to Colab and 
 
 ## Conclusion
 
