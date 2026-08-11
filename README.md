@@ -1,12 +1,13 @@
-# GIVE THE PROJECT A TITLE
+What i did on my summer vacation
 
 ![](pillars_rgb_render1.png)
 *The final rendered image output by Python*
-## Project Summary
 
-What we set out to do (render an image of the M16 Nebula's "Pillars of Creation" structure as a way to learn Python and Astropy). 
 
-Summary of STSCI Proposal 2739 (https://www.stsci.edu/jwst-program-info/download/jwst/pdf/2739/)
+As someone passionate about space, images of things coming out of space telescopes always fascinated me. this project is attempting to replicate the rendering of such an image, leading to somewhat orangeish greenish results. the technical definition of what we were doing is "rendering a partial image of the eagle nebula" with a side goal of learning about python
+
+
+(Note, the renders we were using were a part of stsci prop 2739, which asked the james webb telescope to take photos of cool looking stuff for publicity)
 
 How we planned to do it
 
