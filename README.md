@@ -13,16 +13,15 @@ How we planned to do it
 
 Tools we chose
 - Python / Astropy
-- Google Colab / Jupyter Notebook
+- Google Colab
 
 ## Glossary of Terms
 
-- Jupyter Notebook
-- Google Colab
-- Astropy
-- MAST
-- FITS / I2D 
-
+- Jupyter Notebook: a way to present code and data in a shareable format (uses python language as suggested by the "py")
+- Google Colab: Coding environment that allows for collaboration by being stored in the cloud developed by google
+- Astropy: python library allowing for operations involving various space related stuff (such as downloading things from MAST)
+- MAST [mikulski archive for space telescopes]: Huge archive of space telescope images
+- FITS [flexible image transport system]: file format specialized for astronomical image data
 ## Process
 
 What were the steps we went through? Link to Colab and answer the following questions:
