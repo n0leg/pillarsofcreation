@@ -18,22 +18,10 @@ The plan to do it involved a not insignificant amount of googling, but in summar
 - Astropy: python library allowing for operations involving various space related stuff (such as downloading things from MAST)
 - MAST [mikulski archive for space telescopes]: Huge archive of space telescope images
 - FITS [flexible image transport system]: file format specialized for astronomical image data
-## Process
-
-What were the steps we went through? Link to Colab and answer the following questions:
-
-- What is STSCI.edu?
-- What is the James Webb Space Telescope?
-- What is NIRCAM?
-- What is MIRI?
-- What do the bandpass filters do on the JWST? How did we use the filter renderings to create a color image?
-
-Enumerate the steps we went through to find, download and render the JWST images. Use text blocks in Google Colab to describe each block. Add comments to the Python code.
-
 
 ## Conclusion
 
-Final thoughts, 
+Final thoughts, this was a fun project. it definitely challenged me in a way i was not used to, and i got better because of it. I look forward to doing something like this again in the future
 ## Sources
 
 - [STSCI Proposal 2739](https://www.stsci.edu/jwst-program-info/download/jwst/pdf/2739/) - authors, year, etc 
