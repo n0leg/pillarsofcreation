@@ -9,11 +9,7 @@ As someone passionate about space, images of things coming out of space telescop
 
 (Note, the renders we were using were a part of stsci prop 2739, which asked the james webb telescope to take photos of cool looking stuff for publicity)
 
-How we planned to do it
-
-Tools we chose
-- Python / Astropy
-- Google Colab
+The plan to do it involved a not insignificant amount of googling, but in summary it boiled down to "find 3 images of the pillars in red, green, and blue, then  render them all together" python and google colab were chosen by manner of convenience, and astropy was chosen for being the first library we could find that would let us accomplish it
 
 ## Glossary of Terms
 
